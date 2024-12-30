@@ -23,7 +23,7 @@
             background-color:#fff;
             border-bottom:2px solid #ddd;
             padding:20px;
-            text-align: center;
+            text-align:center;
         }
 
         header h1 {
